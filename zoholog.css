@@ -1,0 +1,124 @@
+body{
+	background-color: rgb(248, 245, 245);
+	align-items: center;
+}
+h2{
+	font-size: 25px;
+	font-weight: lighter;
+	color: rgb(109, 106, 106);
+
+}
+form{
+	width: 290px;
+	height: 400px;
+	background-color: white;
+	border-radius: 20px;
+	border-color: rgb(223, 219, 219);
+	border-style: solid;
+}
+.set{
+	display: flex;
+	font-size: 20px;
+	color: white;
+	margin-left: 30px;
+	padding-top: 30px;
+}
+.con1{
+	width: 32px;
+	height: 32px;
+	background-color: red;
+	/*border-radius: 20px 30px 60px 40px;*/
+	border-top-left-radius: 10px;
+	border-top-right-radius: 15px;
+	border-bottom-left-radius: 15px;
+	border-bottom-right-radius: 5px;
+	position: fixed;
+	
+}
+.con2{
+	width: 32px;
+	height: 32px;
+	background-color:rgb(89, 243, 89);
+	border-top-left-radius: 20px;
+	border-top-right-radius: 15px;
+	border-bottom-left-radius: 15px;
+	border-bottom-right-radius: 20px;
+	position: fixed;
+	margin-left: 25px;
+}
+
+.con3{
+	width: 32px;
+	height: 32px;
+	background-color: rgb(22, 167, 216);
+	border-radius: 90px 40px 70px 50px;
+	position: fixed;
+	margin-left: 50px;
+}
+
+.con4{
+	width: 32px;
+	height: 32px;
+	background-color: orange;
+	border-radius: 60px 20px 80px 90px;
+	position: fixed;
+	margin-left: 80px;
+}
+P{
+	margin-top: 0;
+	margin-left: 5.5px;
+	font-style: italic;
+}
+h3{
+	text-align: start;
+	padding-top: 30px;
+	padding-left: 33PX;
+	padding-bottom: 0;
+}
+input{
+	width: 230px;
+	height: 27px;
+	margin-bottom: 10px;
+	border-radius: 10px;
+	border-color:rgb(194, 190, 190);
+	border-top-color: rgb(247, 243, 243);
+	border-left-color: rgb(247, 243, 243);
+}
+a{
+	color: red;
+	text-decoration: none;
+	padding-left: 110px;
+}
+button{
+	width: 230px;
+	height: 30px;
+	margin-top: 20px;
+	border-radius: 10px;
+	background-color: rgb(238, 46, 46);
+	border: none;
+	color: white;
+	margin-bottom: 40px;
+}
+button:hover{
+	width: 230px;
+	height: 30px;
+	margin-top: 20px;
+	border-radius: 10px;
+	background-color: rgb(237, 88, 88);
+	border: none;
+	color: white;
+	margin-bottom: 40px;
+}
+hr{
+	color: rgb(183, 179, 179);
+	border-style: dotted;
+}
+.p1{
+	margin-top: 15px;
+}
+.a1{
+	color: red;
+	text-decoration: none;
+	text-align: center;
+}
+/* */
